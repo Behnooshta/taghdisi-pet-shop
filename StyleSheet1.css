@@ -1,0 +1,65 @@
+﻿body{
+    background-color:lightpink;
+    
+}
+dl{
+margin:0;
+padding:0;
+list-style-type:none;
+}
+dl dt{
+    background-color:darkgrey;
+    margin:5px 0;
+    padding:5px 10px;
+    border-radius:15px;
+    color:black;
+       display:inline-grid;
+       transition:all;
+}
+dl dt:hover{
+    cursor:pointer;
+    background-color:#8b8b8b;
+}
+a {
+    background-color:limegreen;
+    margin: 5px 0;
+    padding: 5px 10px;
+    border-radius: 15px;
+    color: black;
+    display: inline-block;
+    transition: all;
+}
+a {
+    cursor: pointer;
+    background-color:mediumpurple;
+}
+onklick {
+    background-color: limegreen;
+    margin: 5px 0;
+    padding: 5px 10px;
+    border-radius: 15px;
+    color: black;
+    display: inline-block;
+    transition: all;
+}
+h1 {
+    color: mediumpurple;
+    font-size:xx-large;
+    font-family:'B Titr';
+}
+h2 {
+    color: mediumblue;
+    font-family: 'B Titr';
+}
+button {
+    color: mediumvioletred;
+    font-family: 'B Titr';
+}
+p {
+    color:crimson;
+    font-family: 'B Titr';
+}
+h3 {
+    color:mediumpurple;
+    font-family: 'B Titr';
+}
